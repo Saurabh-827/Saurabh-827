@@ -9,8 +9,7 @@
 - 🌱 At work, I use: [![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org) [![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3)](https://w3.org/Style/CSS) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)](https://javascript.info) [![Node](https://img.shields.io/badge/-Node-339933?&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org) [![Git](https://img.shields.io/badge/-Git-%23F05032?&logo=git&logoColor=%23ffffff)](https://git-scm.com) [![Github](https://img.shields.io/badge/-Github-%231a202c?&logo=github&logoColor=ffffff)](https://github.com) [![MongoDB](https://img.shields.io/badge/-MongoDB-3FA037?&logo=mongodb&logoColor=ffffff)](https://mongodb.com) [![VS Code](https://img.shields.io/badge/-VSCode-%230078D7?&logo=visual-studio-code)](https://code.visualstudio.com)
 - 📈 I’m currently learning: [![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=000000)](https://react.dev) [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript&logoColor=ffffff)](https://typescriptlang.org) [![Redux](https://img.shields.io/badge/-Redux-7231C6?&logo=redux&logoColor=ffffff)](https://redux.js.org)
 - 📢 Languages spoken: 🇻🇪 Spanish, 🇺🇸 English, 🇯🇵 Japanese (Intermediate - N3).
-- 📬 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-1877F2?&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/harshita-yadav-04a740220) [![Instagram](https://img.shields.io/badge/-Instagram-F56040?&logo=Instagram&logoColor=000000)]() [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?&logo=Facebook&logoColor=FFFFFF)]() [![TikTok](https://img.shields.io/badge/-TikTok-FF0050?&logo=TikTok&logoColor=000000&link=https://www.tiktok.com/@ajfm88)]() [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&logo=Twitter&logoColor=FFFFFF)]() [![Resume](https://img.shields.io/badge/-Resume-DAA520?&logo=Academia&logoColor=000000)](https://google.com)
-- 💬 Some of my interests: 💃 Dance, ☮️ Peace
+- 📬 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-1877F2?&logo=Linkedin&logoColor=FFFFFF)]() [![Instagram](https://img.shields.io/badge/-Instagram-F56040?&logo=Instagram&logoColor=000000)]() [![Facebook](https://img.shields.io/badge/-Facebook-4267B2?&logo=Facebook&logoColor=FFFFFF)]() [![TikTok](https://img.shields.io/badge/-TikTok-FF0050?&logo=TikTok&logoColor=000000&link=https://www.tiktok.com/@ajfm88)]() [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&logo=Twitter&logoColor=FFFFFF)]() [![Resume](https://img.shields.io/badge/-Resume-DAA520?&logo=Academia&logoColor=000000)]()
 
 ## 🔧 Technologies & Tools:
 
@@ -57,26 +56,6 @@
         height="48"
         alt="TypeScript"
       />
-      <br /><strong>TypeScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <a href="https://python.org" target="_blank">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        width="48"
-        height="48"
-        alt="Python"
-      />
-      <br /><strong>Python</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <a href="https://tailwindcss.com" target="_blank">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-        width="48"
-        height="48"
-        alt="TailwindCSS"
-      />
       <br /><strong>TailwindCSS</strong>
     </td>
     <td align="center" height="108" width="108">
@@ -96,19 +75,6 @@
         width="48"
         height="48"
         alt="GraphQL"
-      />
-      <br /><strong>GraphQL</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="108" width="108">
-      <a href="https://mongodb.com" target="_blank">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        null="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="MongoDB"
       />
       <br /><strong>MongoDB</strong>
     </td>
