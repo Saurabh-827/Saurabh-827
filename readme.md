@@ -157,7 +157,3 @@
   <img alt="Snake contributions graph" src="https://github.com/ajfm88/ajfm88/blob/output/github-contribution-grid-snake.svg">
 </a>
 
-## 📈 Language Statistics:
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajfm88&hide_progress=true" alt="ajfm88's Top Langs"/>
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ajfm88.ajfm88) -->
