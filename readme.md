@@ -1,5 +1,5 @@
 <img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="center" alt ="Coding Guy">
-<h1 align="center">Hey, everyone! <img src="./hi.gif" alt="hii" width="35" /> I’m Harshita.</h1>
+<h1 align="center">Hey, everyone! <img src="./hi.gif" alt="hii" width="35" /> I’m Saurabh.</h1>
 <h3 align="center">A passionate and explorative Software Developer.</h3>
 
 ## 👨🏽‍💻 A bit more about me:
