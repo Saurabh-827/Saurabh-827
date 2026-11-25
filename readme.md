@@ -11,4 +11,5 @@ Passionate about secure data flow and scalable backend design. I am currently ex
 * Contributor to **[giselles-ai](https://github.com/giselles-ai/giselle/pull/2738)**: Fixed data validation and optimized TypeScript typings for the PostgreSQL tool configuration.
   
 🌐 **Connect** <br/>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1877F2?style=flat&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/saurabh-237b73245) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=FFFFFF)](https://saurabh827.vercel.app/)
